@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 -----------------
 
-I've been learning to code for 4 years ever since high school. I started with C#, then web-programming languages, and C++ at the beginning of university years. I take on the challenge of writing code in various languages and building different types of projects. However what I am passionate about most is game development.
+I've been learning to code for 4 years ever since high school. I started with C#, then web-programming languages, and C++ at the beginning of university years. I take on the challenge of writing code in various languages and building different types of projects. I am most passionate about web and game development.
 
 * 🌍  I'm based in Bulgaria
 * ✉️  You can contact me at [rea.tsenkova@gmail.com](mailto:rea.tsenkova@gmail.com)
