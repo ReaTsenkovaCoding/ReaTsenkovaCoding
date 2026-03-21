@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 -----------------
 
-I've been coding for 4+ years — starting with C# in high school, expanding into web development and C++ at university. I build web apps and games, and hand-draw all the art for my game projects. Most passionate about web and game development.
+I've been coding for 3+ years — starting with C# in high school, expanding into web development and C++ at university. I build web apps and games, and hand-draw all the art for my game projects. Most passionate about web and game development.
 
 * 🌍  I'm based in Bulgaria
 * ✉️  You can contact me at [rea.tsenkova@gmail.com](mailto:rea.tsenkova@gmail.com)
